@@ -1,26 +1,21 @@
 {
-  "name": "php-base-project/php-base-project",
-  "description": "A packagist ready package to start a new PHP 7 project including Composer, PHPUnit, Travis, CodeClimate and StyleCI.",
-  "homepage": "https://github.com/iranianpep/php-base-project",
+  "name": "davidjeddy/no-code",
+  "description": "A PHP interface for https://github.com/kelseyhightower/nocode; has nothing, does nothing. Super cool.",
+  "homepage": "https://github.com/davidjeddy/no-code",
   "license": "MIT",
   "authors": [
-    { "name": "Ehsan Abbasi", "email": "ehsan.abb@gmail.com" }
+    {"name": "David J Eddy", "email": "me@davidjeddy.com" }
   ],
   "require": {
-    "php": ">=7"
-  },
-  "require-dev": {
-    "phpunit/phpunit": "^6",
-    "sebastian/phpcpd": "^3.0",
-    "phpmd/phpmd": "^2.6",
-    "squizlabs/php_codesniffer": "^3.2"
+    "php": "5.3",
+    "davidjeddy/no-code": "^1.0"
   },
   "autoload": {
     "psr-4": {
-      "PhpBaseProject\\": ["src/PhpBaseProject"]
+      "NoCode\\": ["src/no-code"]
     }
   },
   "autoload-dev": {
-    "psr-4": {"PhpBaseProject\\": "tests/PhpBaseProject"}
+    "psr-4": {"NoCode\\": "tests/no-code"}
   }
 }
