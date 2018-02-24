@@ -3,15 +3,15 @@ env:
     - CC_TEST_REPORTER_ID=cbb4ed82659da46058cffee3f587565a1615c9df7259b445b8b4229c520b1e7c
 
 language: php
-
-matrix:
-  include:
-  - php: 5.4
-  - php: 5.5
-  - php: 5.6
-  - php: 7.0
-  - php: 7.1
-  - php: 7.2
+php:
+  - '5.3'
+  - '5.4'
+  - '5.6'
+  - '7.0'
+  - '7.1'
+  - '7.2'
+  - hhvm
+  - nightly
 
 sudo: false
 

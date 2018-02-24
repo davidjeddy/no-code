@@ -23,7 +23,7 @@ Designed to be the absolute best and doing absolutely nothing.
 
 [![Packagist](https://img.shields.io/packagist/dt/davidjeddy/no-code.svg)](https://packagist.org/packages/davidjeddy/no-code)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/davidjeddy/no-code/master/LICENSE)
-[![SensioLabs Insight](https://img.shields.io/sensiolabs/i/0613c308-3c94-427f-97a1-9b2a0688038c.svg)](https://img.shields.io/sensiolabs/i/45afb680-d4e6-4e66-93ea-bcfa79eb8a87.svg)
+[![SensioLabs Insight](https://insight.sensiolabs.com/projects/0613c308-3c94-427f-97a1-9b2a0688038c/mini.png)](https://insight.sensiolabs.com/projects/0613c308-3c94-427f-97a1-9b2a0688038c/mini.png)
 
 ## Credit
  - The no-code project maintained at [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode).
