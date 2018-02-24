@@ -4,8 +4,19 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "366e2036908fee3caba0915ce53852c7",
-    "packages": [],
+    "content-hash": "a7d653e26958cc11515716cd5f5c3013",
+    "packages": [
+        {
+            "name": "kelseyhightower/nocode",
+            "version": "1.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/kelseyhightower/nocode.git",
+                "reference": "master"
+            },
+            "type": "library"
+        }
+    ],
     "packages-dev": [
         {
             "name": "doctrine/instantiator",
