@@ -16,18 +16,9 @@ addons:
   code_climate:
     repo_token: cbb4ed82659da46058cffee3f587565a1615c9df7259b445b8b4229c520b1e7c
 
+cache:
+  directories:
+    - $HOME/.composer/cache
+
 install:
   - composer install
-
-before_script:
-  - pecl install dom
-  - pecl install mbstring
-  - curl -L https://codeclimate.com/downloads/test-reporter/test-reporter-latest-linux-amd64 > ./cc-test-reporter
-  - chmod +x ./cc-test-reporter
-  - ./cc-test-reporter before-build
-
-script:
-  - php ./vendor/bin/phpunit --coverage-clover ./clover.xml --configuration phpunit.xml
-
-after_script:
-  - ./cc-test-reporter after-build --exit-code $TRAVIS_TEST_RESULT
