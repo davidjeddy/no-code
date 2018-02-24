@@ -1,9 +1,8 @@
 # PHP Base Project
-A super scalable, Machine learning inspired, DevOps/CI/CD ready, 100% secure, block-chain compatible, micro-service
-inspired, quantum computing designed, IOT deployable 0 performance degrading PHPComposer package. 
+A super scalable, machine learning optimized, DevOps/CI/CD ready, 100% secure, block-chain compatible, micro-service
+architecture designed, quantum computing calculated, IOT deployable, zero performance degrading PHPComposer package. 
 
- - PHP Composer wrapper for the no-code project maintained at [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode).
- - Starter template provided by [keepcoding.ehsanabbasi.com](keepcoding.ehsanabbasi.com/php/composer-ready-starter-kit/).
+Designed to be the absolute best and doing absolutely nothing.
 
 [![Latest Stable Version](https://poser.pugx.org/davidjeddy/no-code/v/stable)](https://packagist.org/packages/davidjeddy/no-code)
 [![Build Status](https://travis-ci.org/davidjeddy/no-code.svg?branch=master)](https://travis-ci.org/davidjeddy/no-code)
@@ -19,15 +18,17 @@ inspired, quantum computing designed, IOT deployable 0 performance degrading PHP
 [![Packagist](https://img.shields.io/packagist/dt/davidjeddy/no-code.svg)](https://packagist.org/packages/davidjeddy/no-code)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/davidjeddy/no-code/master/LICENSE)
 
+## Credit
+ - The no-code project maintained at [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode).
+ - PHP Composer starter template provided by [keepcoding.ehsanabbasi.com](keepcoding.ehsanabbasi.com/php/composer-ready-starter-kit/).
+
 ## Server Requirements
 - PHP >= 5.3
 
-## Usage
+## Install
 -  Install via composer:
 ```
 composer require davidjeddy/no-code
 ```
-
-- Create an account on Travis, Scrutinizer and Code Climate and allow access to your repository
-- Update `.travis.yml` with your repository token from Code Climate
-- Update readme file with the right path to the badges
+## Usage
+See [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) for usage and detailed documentation.

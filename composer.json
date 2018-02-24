@@ -7,8 +7,7 @@
     {"name": "David J Eddy", "email": "me@davidjeddy.com" }
   ],
   "require": {
-    "php": "5.3",
-    "davidjeddy/no-code": "^1.0"
+    "php": "5.3"
   },
   "autoload": {
     "psr-4": {
