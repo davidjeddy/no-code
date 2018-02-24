@@ -3,20 +3,6 @@ env:
     - CC_TEST_REPORTER_ID=cbb4ed82659da46058cffee3f587565a1615c9df7259b445b8b4229c520b1e7c
 
 language: php
-php:
-  - 5.4
-  - 5.6
-  - 7.0
-  - 7.1
-  - 7.2
-  - nightly
-  - hhvm-3.3
-  - hhvm-3.6
-  - hhvm-3.9
-  - hhvm-3.12
-  - hhvm-3.15
-  - hhvm-3.18
-  - hhvm-nightly
 
 matrix:
   include:
@@ -24,7 +10,7 @@ matrix:
       dist: precise
     - php: 5.3
       dist: precise
-s
+
 sudo: false
 
 addons:
