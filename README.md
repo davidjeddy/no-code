@@ -27,7 +27,7 @@ Designed to be the absolute best and doing absolutely nothing.
 
 ## Credit
  - The no-code project maintained at [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode).
- - PHP Composer starter template provided by [keepcoding.ehsanabbasi.com](keepcoding.ehsanabbasi.com/php/composer-ready-starter-kit/).
+ - PHP Composer starter template provided by [https://github.com/iranianpep/php-base-project](https://github.com/iranianpep/php-base-project).
  - Badges index by [shields.io](https://shields.io/)
  
 ## Install
