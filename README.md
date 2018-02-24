@@ -1,9 +1,10 @@
-# PHP Base Project
+## About
 A super scalable, machine learning optimized, DevOps/CI/CD ready, 100% secure, block-chain compatible, micro-service
-architecture designed, quantum computing calculated, IOT deployable, zero performance degrading PHPComposer package. 
+architecture designed, quantum computing calculated, IOT deployable, zero performance degrading [PHP](https://php.net) [Composer](https://getcomposer.org/) package. 
 
 Designed to be the absolute best and doing absolutely nothing.
 
+## Badges
 [![Latest Stable Version](https://poser.pugx.org/davidjeddy/no-code/v/stable)](https://packagist.org/packages/davidjeddy/no-code)
 
 [![Build Status](https://travis-ci.org/davidjeddy/no-code.svg?branch=master)](https://travis-ci.org/davidjeddy/no-code)
@@ -22,19 +23,24 @@ Designed to be the absolute best and doing absolutely nothing.
 
 [![Packagist](https://img.shields.io/packagist/dt/davidjeddy/no-code.svg)](https://packagist.org/packages/davidjeddy/no-code)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/davidjeddy/no-code/master/LICENSE)
+[![Sensio Labs Insight](https://img.shields.io/sensiolabs/i/0613c308-3c94-427f-97a1-9b2a0688038c.svg)](https://img.shields.io/sensiolabs/i/45afb680-d4e6-4e66-93ea-bcfa79eb8a87.svg)
 
 ## Credit
  - The no-code project maintained at [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode).
  - PHP Composer starter template provided by [keepcoding.ehsanabbasi.com](keepcoding.ehsanabbasi.com/php/composer-ready-starter-kit/).
  - Badges index by [shields.io](https://shields.io/)
  
-## Server Requirements
-- PHP >= 5.3
-
 ## Install
--  Install via composer:
-```
-composer require davidjeddy/no-code
-```
+ - Install via composer: `composer require davidjeddy/no-code`
+
+## License
+[MIT](https://github.com/davidjeddy/no-code/blob/master/LICENSE)
+
+## Requirements
+- [PHP](https://php.net) >= 5.3
+
+## Security Issues
+None, ever, period. no-code is designed to be impenetrable by any current or future attack vectors.
+
 ## Usage
 See [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) for usage and detailed documentation.
