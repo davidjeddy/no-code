@@ -4,14 +4,27 @@ env:
 
 language: php
 php:
-  - '5.3'
-  - '5.4'
-  - '5.6'
-  - '7.0'
-  - '7.1'
-  - '7.2'
+  - 5.4
+  - 5.6
+  - 7.0
+  - 7.1
+  - 7.2
   - nightly
+  - hhvm-3.3
+  - hhvm-3.6
+  - hhvm-3.9
+  - hhvm-3.12
+  - hhvm-3.15
+  - hhvm-3.18
+  - hhvm-nightly
 
+matrix:
+  include:
+    - php: 5.2
+      dist: precise
+    - php: 5.3
+      dist: precise
+s
 sudo: false
 
 addons:
