@@ -2,7 +2,7 @@
 A super scalable, machine learning optimized, DevOps/CI/CD ready, 100% secure, block-chain compatible, micro-service
 architecture designed, quantum computing calculated, IOT deployable, zero performance degrading [PHP](https://php.net) [Composer](https://getcomposer.org/) package. 
 
-Designed to be the absolute best and doing absolutely nothing.
+From the create or no-code themselves: `No code is the best way to write secure and reliable applications. Write nothing; deploy nowhere.`
 
 ## Badges
 [![Latest Stable Version](https://poser.pugx.org/davidjeddy/no-code/v/stable)](https://packagist.org/packages/davidjeddy/no-code)
