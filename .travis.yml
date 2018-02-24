@@ -17,10 +17,11 @@ addons:
     repo_token: cbb4ed82659da46058cffee3f587565a1615c9df7259b445b8b4229c520b1e7c
 
 install:
-    - composer install
+  - composer install
+  - pecl install dom
+  - pecl install mbstring
 
 before_script:
-  - pecl install dom mbstring
   - curl -L https://codeclimate.com/downloads/test-reporter/test-reporter-latest-linux-amd64 > ./cc-test-reporter
   - chmod +x ./cc-test-reporter
   - ./cc-test-reporter before-build
