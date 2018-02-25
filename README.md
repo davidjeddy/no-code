@@ -8,10 +8,10 @@ From the create or no-code themselves: `No code is the best way to write secure 
 [![Latest Stable Version](https://poser.pugx.org/davidjeddy/no-code/v/stable)](https://packagist.org/packages/davidjeddy/no-code)
 [![Build Status](https://travis-ci.org/davidjeddy/no-code.svg?branch=master)](https://travis-ci.org/davidjeddy/no-code)
 [![Build Status](https://scrutinizer-ci.com/g/davidjeddy/no-code/badges/build.png?b=master)](https://scrutinizer-ci.com/g/davidjeddy/no-code/build-status/master)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/davidjeddy/no-code/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/davidjeddy/no-code/?branch=master)
-[![Code Coverage](https://scrutinizer-ci.com/g/davidjeddy/no-code/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/davidjeddy/no-code/?branch=master)
+<!--[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/davidjeddy/no-code/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/davidjeddy/no-code/?branch=master)-->
+<!--[![Code Coverage](https://scrutinizer-ci.com/g/davidjeddy/no-code/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/davidjeddy/no-code/?branch=master)-->
 [![Code Climate](https://codeclimate.com/github/davidjeddy/no-code/badges/gpa.svg)](https://codeclimate.com/github/davidjeddy/no-code)
-[![Test Coverage](https://codeclimate.com/github/davidjeddy/no-code/badges/coverage.svg)](https://codeclimate.com/github/davidjeddy/no-code/coverage)
+<!--[![Test Coverage](https://codeclimate.com/github/davidjeddy/no-code/badges/coverage.svg)](https://codeclimate.com/github/davidjeddy/no-code/coverage)-->
 [![Issue Count](https://codeclimate.com/github/davidjeddy/no-code/badges/issue_count.svg)](https://codeclimate.com/github/davidjeddy/no-code)
 [![License](https://poser.pugx.org/davidjeddy/no-code/license)](https://packagist.org/packages/davidjeddy/no-code)
 [![StyleCI](https://styleci.io/repos/88731011/shield?branch=master)](https://styleci.io/repos/88731011)
