@@ -36,12 +36,3 @@ tools:
         filter:
             paths: ["src/*", "tests/*"]
     sensiolabs_security_checker: true
-
-build:
-    tests:
-        override:
-            -
-                command: 'vendor/bin/phpunit --coverage-clover=coverage-file'
-                coverage:
-                    file: 'coverage-file'
-                    format: 'clover'
